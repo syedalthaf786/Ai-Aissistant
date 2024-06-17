@@ -59,7 +59,7 @@ def greeting():
     else:
         talk("Good evening, sir.")
 
-def run_affu():
+def run_jenny():
     query = take_command()
     
     if 'hello' in query:
@@ -156,4 +156,4 @@ if __name__ == "__main__":
     talk('My name is Jenny.')
     talk("Say something, sir.")
     while True:
-        run_affu()
+        run_jenny()
