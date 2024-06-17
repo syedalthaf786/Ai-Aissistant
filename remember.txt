@@ -1,0 +1,10 @@
+gtts
+pygame
+SpeechRecognition
+datetime
+simple-webbrowser
+wikipedia
+pyautogui
+pywhatkit
+pyjokes
+pyaudio
